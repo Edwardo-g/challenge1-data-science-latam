@@ -42,3 +42,8 @@ Agrupación de datos por mes y categoría
 Generación de gráficos comparativos
 
 Interpretación de resultados
+
+## Aclaraciones Finales
+
+Este repositorio contiene una copia final del proyecto desarrollado por el autor como parte del desafío Atula Latam / Oracle.
+El trabajo fue realizado previamente y luego respaldado en esta cuenta.
